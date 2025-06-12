@@ -40,7 +40,3 @@ class Reviewer:
         self.courses_attached = []
 
     def rate_hw(self, student, course, grade):
-        """
-        Метод для выставления оценки студенту за домашнее задание
-        :param student: объект Student
-        :param
